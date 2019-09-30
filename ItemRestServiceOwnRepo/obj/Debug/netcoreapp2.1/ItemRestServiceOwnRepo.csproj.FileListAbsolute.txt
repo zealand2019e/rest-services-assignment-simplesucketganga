@@ -1,0 +1,14 @@
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\bin\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.deps.json
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\bin\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.runtimeconfig.json
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\bin\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.runtimeconfig.dev.json
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\bin\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.dll
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\bin\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.pdb
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.csprojAssemblyReference.cache
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.csproj.CoreCompileInputs.cache
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.RazorAssemblyInfo.cache
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.RazorAssemblyInfo.cs
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.AssemblyInfoInputs.cache
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.AssemblyInfo.cs
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.RazorTargetAssemblyInfo.cache
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.dll
+C:\Users\popul\source\repos\ItemRestServiceOwnRepo\obj\Debug\netcoreapp2.1\ItemRestServiceOwnRepo.pdb
