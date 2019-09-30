@@ -1,0 +1,9 @@
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\bin\Debug\netcoreapp2.2\ItemLibrary1.deps.json
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\bin\Debug\netcoreapp2.2\ItemLibrary1.dll
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\bin\Debug\netcoreapp2.2\ItemLibrary1.pdb
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\obj\Debug\netcoreapp2.2\ItemLibrary1.csprojAssemblyReference.cache
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\obj\Debug\netcoreapp2.2\ItemLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\obj\Debug\netcoreapp2.2\ItemLibrary1.AssemblyInfoInputs.cache
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\obj\Debug\netcoreapp2.2\ItemLibrary1.AssemblyInfo.cs
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\obj\Debug\netcoreapp2.2\ItemLibrary1.dll
+C:\Users\popul\source\repos\zealand2019e\rest-services-assignment-simplesucketganga\ItemLibrary1\obj\Debug\netcoreapp2.2\ItemLibrary1.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\popul\\source\\repos\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj": {}
+    "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\popul\\source\\repos\\ItemLibrary\\ItemLibrary.csproj": {
+    "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemLibrary1\\ItemLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\popul\\source\\repos\\ItemLibrary\\ItemLibrary.csproj",
-        "projectName": "ItemLibrary",
-        "projectPath": "C:\\Users\\popul\\source\\repos\\ItemLibrary\\ItemLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemLibrary1\\ItemLibrary1.csproj",
+        "projectName": "ItemLibrary1",
+        "projectPath": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemLibrary1\\ItemLibrary1.csproj",
         "packagesPath": "C:\\Users\\popul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\popul\\source\\repos\\ItemLibrary\\obj\\",
+        "outputPath": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\popul\\source\\repos\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj": {
+    "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\popul\\source\\repos\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj",
+        "projectUniqueName": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj",
         "projectName": "ItemRestServiceOwnRepo",
-        "projectPath": "C:\\Users\\popul\\source\\repos\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj",
+        "projectPath": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemRestServiceOwnRepo\\ItemRestServiceOwnRepo.csproj",
         "packagesPath": "C:\\Users\\popul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\popul\\source\\repos\\ItemRestServiceOwnRepo\\obj\\",
+        "outputPath": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemRestServiceOwnRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\popul\\source\\repos\\ItemLibrary\\ItemLibrary.csproj": {
-                "projectPath": "C:\\Users\\popul\\source\\repos\\ItemLibrary\\ItemLibrary.csproj"
+              "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemLibrary1\\ItemLibrary1.csproj": {
+                "projectPath": "C:\\Users\\popul\\source\\repos\\zealand2019e\\rest-services-assignment-simplesucketganga\\ItemLibrary1\\ItemLibrary1.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.0, )"
             }
           },
           "imports": [

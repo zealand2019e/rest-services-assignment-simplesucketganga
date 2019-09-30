@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using ItemLibrary.Model;
-using Microsoft.AspNetCore.Http;
+﻿using System.Collections.Generic;
+using ItemLibrary1;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.DependencyInjection;
 
 namespace ItemRestServiceOwnRepo.Controllers
 {
